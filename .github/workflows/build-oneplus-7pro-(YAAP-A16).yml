@@ -1,4 +1,4 @@
-name: Oneplus 7pro (YAAP A16)
+name: build Oneplus 7pro (YAAP A16)
 
 on:
   workflow_call:
